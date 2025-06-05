@@ -1,10 +1,10 @@
 # DarwinAI Chat with Batch File
 
-This repository contains a simple batch script that allows you to chat with Google's AI model (branded here as **"DarwinAI"**) directly from your Windows command prompt, using a graphical input box. It utilizes the fast and efficient `gemini-2.5-flash-preview-05-20` model.
+This repository contains a simple batch script that allows you to chat with Google's AI model (branded here as **"DarwinAI"**) directly from your Windows command prompt, using a graphical input box. It utilizes the fast and efficient `Gemma` model.
 
 ## Features
 
-* Interactive chat with DarwinAI (powered by Google's `gemini-2.5-flash-preview-05-20` model).
+* Interactive chat with DarwinAI (powered by Google's `Gemma` model).
 * Graphical input box for questions (no typing directly into the console).
 * Continuous conversation: ask multiple questions without restarting the script.
 * Easy to set up and run on Windows.
@@ -114,7 +114,7 @@ This error often occurs during the download of `DarwinAI.zip` within `setup.cmd`
 
 ## How to Use
 
-1.  Once all the setup steps are complete, simply **double-click `talk_to_ai_with_input.bat`**.
+1.  Once all the setup steps are complete, simply **double-click `DarWinAI.bat`**.
 2.  A graphical input box will appear. Type your question for **DarwinAI** and click "OK".
 3.  **DarwinAI's** response will be displayed in the command prompt.
 4.  Press any key to ask another question.
