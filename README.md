@@ -1,6 +1,6 @@
 # DarwinAI Chat with Batch File
 
-This repository contains a simple batch script that allows you to chat with AI directly from your Windows command prompt, using a graphical input box. It utilizes the "Gemini 2.5 Flash"
+This repository contains a simple batch script that allows you to chat with AI directly from your Windows command prompt, using a graphical input box. It utilizes the `Gemini 2.5 Flash`
 
 ## Features
 
@@ -11,7 +11,7 @@ This repository contains a simple batch script that allows you to chat with AI d
 
 ## Requirements
 
-* **Windows 10/11 PC:** `curl.exe` is pre-installed.
+* **Windows 8.1/10/11 PC:** With or without `curl.exe` is pre-installed.
 * **Google Gemini API Key:** Each user needs their own API key linked to a project where the Generative Language API is enabled.
 * **jq.exe:** A command-line JSON processor.
 
