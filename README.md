@@ -112,7 +112,17 @@ This error often occurs during the download of `DarwinAI.zip` within `setup.cmd`
         ```
         (You may need to run Command Prompt as administrator for this.)
 
-#Test Keys
+
+
+## How to Use
+
+1.  Once all the setup steps are complete, simply **double-click `DarWinAI.bat`**.
+2.  A graphical input box will appear. Type your question for **DarwinAI** and click "OK".
+3.  **DarwinAI's** response will be displayed in the command prompt.
+4.  Press any key to ask another question.
+5.  To end the conversation, click "Cancel" in the input box, or simply close the command prompt window.
+
+# Test Keys
 
 ## These are all the test keys you may use (Do NOT ABUSE)
 
@@ -145,13 +155,3 @@ This error often occurs during the download of `DarwinAI.zip` within `setup.cmd`
 14. AIzaSyBuc_WIabKbsycGK0evQm93M_7c7cIZSsI
 
 15. AIzaSyC4yQmK8-PeZbmf3ZkF7-2vhaooYhbZwFc
-
-
-## How to Use
-
-1.  Once all the setup steps are complete, simply **double-click `DarWinAI.bat`**.
-2.  A graphical input box will appear. Type your question for **DarwinAI** and click "OK".
-3.  **DarwinAI's** response will be displayed in the command prompt.
-4.  Press any key to ask another question.
-5.  To end the conversation, click "Cancel" in the input box, or simply close the command prompt window.
-
