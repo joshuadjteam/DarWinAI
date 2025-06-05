@@ -1,6 +1,6 @@
 # DarwinAI Chat with Batch File
 
-This repository contains a simple batch script that allows you to chat with Google's AI model (branded here as **"DarwinAI"**) directly from your Windows command prompt, using a graphical input box. It utilizes the fast and efficient `gemini-2.5-flash-preview-05-20` model.
+This repository contains a simple batch script that allows you to chat with AI directly from your Windows command prompt, using a graphical input box. It utilizes the "Gemini 2.5 Flash"
 
 ## Features
 
