@@ -1,4 +1,4 @@
-# DarwinAI Chat with Batch File
+# DarwinAI, A Windows to AI simple connecter
 
 This repository contains a simple batch script that allows you to chat with AI directly from your Windows command prompt, using a graphical input box. It utilizes the `Gemini 2.5 Flash`
 
