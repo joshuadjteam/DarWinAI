@@ -42,8 +42,8 @@ This repository contains a simple batch script that allows you to chat with Goog
     * **Important:** Ensure the "Generative Language API" is enabled for the Google Cloud project associated with your API key. You can check this at [https://console.cloud.google.com/apis/library/generativelanguage.googleapis.com](https://console.cloud.google.com/apis/library/generativelanguage.googleapis.com).
     * Now, open the `talk_to_ai_with_input.bat` file located in `C:\DarwinAI\` using Notepad.
     * Find the line that sets the API key (it will look similar to `set "API_KEY=YOUR_GEMINI_API_KEY_HERE"` or `set "API_KEY=AIzaSyCMbImhuRkNmnCylt35tq0HQ079dbBKtAg"`).
-    * **Replace the existing key with *your own* Gemini API Key.**
-    * Save the `talk_to_ai_with_input.bat` file.
+    * **Replace the fake key with your OWN or a testing key**
+    * Save the `DarWinAI.bat` file.
 
 4.  **Verify `curl.exe` (Usually Pre-installed):**
     * Open Command Prompt (`cmd`) and type `curl --version`.
@@ -57,7 +57,7 @@ This repository contains a simple batch script that allows you to chat with Goog
 ## How to Use
 
 1.  Once all the setup steps are complete, navigate to `C:\DarwinAI\` in File Explorer.
-2.  **Double-click `talk_to_ai_with_input.bat`**.
+2.  **Double-click `DarWinAI.bat`**.
 3.  A graphical input box will appear. Type your question for **DarwinAI** and click "OK".
 4.  **DarwinAI's** response will be displayed in the command prompt.
 5.  Press any key to ask another question.
@@ -91,11 +91,11 @@ This error often occurs during the download of `DarwinAI.zip` within `setup.cmd`
     * Open "Internet Options" from the Control Panel. In the "Advanced" tab, ensure "Check for server certificate revocation" is enabled under "Security." Also, check "LAN settings" in the "Connections" tab if you use a proxy.
 
 3.  **Configure Your API Key in the Batch File:**
-    * Open `talk_to_ai_with_input.bat` in Notepad.
+    * Open `DarWinAU.bat` in Notepad.
     * Find the line: `set "API_KEY=AIzaSyCMbImhuRkNmnCylt35tq0HQ079dbBKtAg"`
         (or whatever the current key is in your batch file).
     * **Replace the existing key with *your own new API key* that you copied from Google AI Studio.**
-    * Save the `talk_to_ai_with_input.bat` file.
+    * Save the `DarWinAI.bat` file.
 
 4.  **Download `jq.exe`:**
     * `jq` is used to parse the AI's response.
